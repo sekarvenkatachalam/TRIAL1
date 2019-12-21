@@ -2,8 +2,7 @@
 <HTML>
 <HEAD>
 <TITLE>KAARALA</TITLE>
-	<style>
-		p {
+          p {
  			 color: white;
                          text-shadow: 0 0 3px #000000;
 		}
@@ -15,7 +14,7 @@
          private static int counter = 0;
          %>
         <%
-          String visitor = ++counter + " :: We are growing , Thank you for your LOVE and SUPPORT...";
+          String visitor = ++counter + " :: We are developing , Thank you for your LOVE and SUPPORT...";
         %>
 
 	<SCRIPT>
